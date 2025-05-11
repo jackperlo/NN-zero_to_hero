@@ -96,3 +96,6 @@ class Value:
   # could be called (e.g. 2*Value(3) results in automatically calling Value(3).__mul(2))
   def __rmul__(self, other):
     return self * other
+  
+  def __radd__(self, other):
+    return self + other
