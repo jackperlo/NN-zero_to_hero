@@ -23,7 +23,8 @@ In simple terms:
 - 📌 Manual Backward Propagation  
 - 📌 Loss Function (MSE)  
 - 📌 Gradient Descent Step  
-- 📌 Training Batch Size Parameter  
+- 📌 Training Batch Size Parameter 
+- 📌 Multi Layer Perceptron (MLP), simplest possible
 
 ---
 ✨ With these building blocks, we can construct and train simple neural networks from scratch!
