@@ -1,4 +1,4 @@
-# ✨ Makemore (by Andrej Karpathy)
+# ✨ Makemore
 
 **Makemore** is a simple yet powerful project that demonstrates how language models can be built **from scratch**.  
 It starts with a **bigram model**, where the **next token** is predicted based **only on the previous token**.  
