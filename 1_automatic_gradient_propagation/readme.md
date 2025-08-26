@@ -18,13 +18,14 @@ In simple terms:
 
 ## 📚 Topics Covered
 
-- 📌 Local Derivative Computation  
-- 📌 Chain Rule for Derivative Computation  
-- 📌 Manual Backward Propagation  
-- 📌 Loss Function (MSE)  
-- 📌 Gradient Descent Step  
-- 📌 Training Batch Size Parameter 
-- 📌 Multi Layer Perceptron (MLP), simplest possible
+- 🧮 **Local Derivative Computation** – Finding gradients of simple operations  
+- 🔗 **Chain Rule for Derivative Computation** – Combining local gradients across a graph  
+- 🔄 **Manual Backward Propagation** – Explicitly applying derivatives step by step  
+- 📊 **Loss Function (MSE)** – Measuring prediction error with *Mean Squared Error*  
+- 📉 **Gradient Descent Step** – Updating parameters to reduce loss  
+- 📦 **Training Batch Size Parameter** – Controlling how much data is processed per step  
+- 🧠 **Multi-Layer Perceptron (MLP)** – The simplest neural network built from Micrograd  
 
 ---
-✨ With these building blocks, we can construct and train simple neural networks from scratch!
+
+✨ With these building blocks, we can construct and train **simple neural networks from scratch**!
